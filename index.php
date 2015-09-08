@@ -6,7 +6,7 @@ http://www.ticsysecurituy.com.co
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Inicio TyS</title>
+  <title>ticsysecurity - Inicio</title>
   <!-- Bootstrap -->
   <link href="css/bootstrap.css" rel='stylesheet' type='text/css'/>
   <!-- Font Awesome  -->
