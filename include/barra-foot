@@ -1,0 +1,15 @@
+<div id="footerwrap">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-8"> <span class="copyright">Copyleft &copy; 2015 <a href="http://www.ticsysecurity.com." rel="nofollow">ticsysecurity.com.</a></span> </div>
+      <div class="col-md-4">
+        <ul class="list-inline social-buttons">
+          <li><a target="_blank" href="https://www.facebook.com"><i class="fa fa-twitter"></i></a> </li>
+          <li><a target="_blank" href="https://www.facebook.com/difo1992"><i class="fa fa-facebook"></i></a> </li>
+          <li><a target="_blank" href="https://plus.google.com/+DiegoForero"><i class="fa fa-google-plus"></i></a> </li>
+          <li><a target="_blank" href="https://www.facebook.com"><i class="fa fa-linkedin"></i></a> </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
