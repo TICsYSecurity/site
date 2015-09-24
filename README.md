@@ -1,26 +1,30 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Stylish Portfolio](http://startbootstrap.com/template-overviews/stylish-portfolio/)
+# [TicSySecurity](http://ticsysecurity.com/) 
 
-[Stylish Portfolio](http://startbootstrap.com/template-overviews/stylish-portfolio/) is a responsive, one page portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). The theme features multiple content sections with an off canvas navigation menu.
+Empresa de servicios informaticos.
+*Desarrollo de Software
+*Seguridad Informatica
+*Seguridad CCTV
+*Seguridad Perimetral
 
-## Getting Started
+## ¿Quienes somos?
 
-To use this template, choose one of the following options to get started:
-* Download the latest release on Start Bootstrap
-* Fork this repository on GitHub
 
-## Bugs and Issues
+Somos informáticos oriundos de la sabana de Cundinamarca, nos encanta la filosofia del Software Libre y contamos con más de cinco (05) años de experiencia en Tecnologias de la Información en el departamento de Cundinamarca.
 
-Have a bug or an issue with this theme? [Open a new issue](https://github.com/IronSummitMedia/startbootstrap-stylish-portfolio/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/stylish-portfolio/).
+## Personas
 
-## Creator
+[Jonathan Castro](https://github.com/hjonac)
+[Jonathan Posada](http://itodosoft.hol.es/blog)
+[Daniel Andres Emo Feo](https://github.com/danielfeo)
+[Hector Jojoa Cabrera](http://redtube.com)
+[Diego Forero](https://github.com/DiFo92)
 
-Start Bootstrap was created by and is maintained by **David Miller**, Managing Parter at [Iron Summit Media Strategies](http://www.ironsummitmedia.com/).
+##Proximos Modulos
 
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
+*Tienda Virtaul
+*Roseta Pi 
+*WeedTVFree Pi
 
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+## Copyleft 
 
-## Copyright and License
-
-Copyright 2013-2015 Iron Summit Media Strategies, LLC. Code released under the [Apache 2.0](https://github.com/IronSummitMedia/startbootstrap-stylish-portfolio/blob/gh-pages/LICENSE) license.
+Copyleft 2015 - Ticsysecurity
