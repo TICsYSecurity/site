@@ -26,7 +26,7 @@
   <?php include_once("include/barra-nav"); ?>
 <div id="section_header">
   <div class="container">
-    <h2><span>Somos Informaticos Con Calidad</span></h2>
+    <h2>Somos Informaticos Con Calidad</h2>
   </div>
 </div>
 <div id="about_section_1">
@@ -49,21 +49,49 @@
 <div id="about_section_2">
   <div class="container">
     <div class="row">
-      <div class="col-lg-6">
-        <h4><i class="fa fa-graduation-cap fa-2x pull-left"></i>Somos autodidactas y siempre estamos a la vanguardia</h4>
-        <p>Somos personas que nos interesa estar actualizados en el campo de Tecnologias de la Información y Comunicación, investigando siempre las nuevas tendencias en Hardware y Software, lenguajes de programación y mejores practicas ya que esto avanza día a día.</p>
-      </div>
-      <div class="col-lg-6">
-        <h4><i class="fa fa-trophy fa-2x pull-left"></i>Garantizamos la calidad de nuestro trabajo a los clientes siempre</h4>
-        <p>Entendemos que cuando se adquiere un producto queremos que este sea el mejor del mercado y poderle sacar el mejor provecho, por lo cual garantizamos la calidad de nuestros productos siempre.</p>
-      </div>
-      <div class="col-lg-6">
-        <h4><i class="fa fa-globe fa-2x pull-left"></i>Nuestros productos estan orientados a cumplir necesidades globales</h4>
-        <p>Actualmente nuestros principales productos son Camaras de seguridad que puede visualizar desde cualquier lugar del mundo y desde cualquier dispositivo (Celular, Tablet y/o Computador.) y paginas web de contenido estatico.</p>
-      </div>
-      <div class="col-lg-6">
-        <h4><i class="fa fa-language fa-2x pull-left"></i>Sabemos usar muy bien google transalate por que Ingles solo sabe Perico.</h4>
-        <p>Actualmente la mayoria de las personas contamos con conocimientos basicos de Ingles, pero contamos con el Ingeniero Diego Perico, persona blilingue para brindar mejores servicios.</p>
+    <!-- Acordion Inicio -->
+      <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+        <div class="panel panel-default">
+          <div class="panel-heading" role="tab" id="headingOne">
+            <h4 class="panel-title">
+              <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                <h3><i class="fa fa-graduation-cap"></i>Somos autodidactas y siempre estamos a la vanguardia</h3>
+              </a>
+            </h4>
+          </div>
+          <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
+            <div class="panel-body">
+              <p>Somos personas que nos interesa estar actualizados en el campo de Tecnologias de la Información y Comunicación, investigando siempre las nuevas tendencias en Hardware y Software, lenguajes de programación y mejores practicas ya que esto avanza día a día.</p>
+            </div>
+          </div>
+        </div>
+        <div class="panel panel-default">
+          <div class="panel-heading" role="tab" id="headingTwo">
+            <h4 class="panel-title">
+              <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                <h3><i class="fa fa-trophy "></i>Garantizamos la calidad de nuestro trabajo a los clientes siempre</h3>
+              </a>
+            </h4>
+          </div>
+          <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
+            <div class="panel-body">
+              Entendemos que cuando se adquiere un producto queremos que este sea el mejor del mercado y poderle sacar el mejor provecho, por lo cual garantizamos la calidad de nuestros productos siempre.            </div>
+          </div>
+        </div>
+        <div class="panel panel-default">
+          <div class="panel-heading" role="tab" id="headingThree">
+            <h4 class="panel-title">
+              <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                <h3><i class="fa fa-globe"></i>Nuestros productos estan orientados a cumplir necesidades globales</h3>
+              </a>
+            </h4>
+          </div>
+          <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
+            <div class="panel-body">
+            Actualmente nuestros principales productos son Camaras de seguridad que puede visualizar desde cualquier lugar del mundo y desde cualquier dispositivo (Celular, Tablet y/o Computador.) y paginas web de contenido estatico.
+            </div>
+          </div>
+        </div>
       </div>
     </div>
   </div>
@@ -72,20 +100,7 @@
 <div id="section_header">
   <h2><span>Nuestros</span> clientes</h2>
 </div>
-<div id="clients">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-2"> <img src="images/client1.jpg" class="img-responsive"> </div>
-      <!--
-        <div class="col-lg-2"> <img src="images/client2.jpg" class="img-responsive"> </div>
-        <div class="col-lg-2"> <img src="images/client3.jpg" class="img-responsive"> </div>
-        <div class="col-lg-2"> <img src="images/client4.jpg" class="img-responsive"> </div>
-        <div class="col-lg-2"> <img src="images/client5.jpg" class="img-responsive"> </div>
-        <div class="col-lg-2"> <img src="images/client6.jpg" class="img-responsive"> </div>
-      -->
-    </div>
-  </div>
-</div>
+<?php include_once("include/barra-clientes"); ?>
 <!-- Footer -->
 <?php include_once("include/barra-foot"); ?>
 <!-- Bootstrap core JavaScript --> 
