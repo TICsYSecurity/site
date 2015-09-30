@@ -1,0 +1,15 @@
+<div id="footerwrap">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-8"> <span class="copyright">Copyleft &copy; 2015 <a href="http://www.ticsysecurity.com." rel="nofollow">Ticsysecurity </a>- Soluciones Tecnologicas</span> </div>
+      <div class="col-md-4">
+        <ul class="list-inline social-buttons">
+          <li><a target="_blank" href="https://twitter.com/ticsysecurity"><i class="fa fa-twitter"></i></a> </li>
+          <li><a target="_blank" href="https://www.facebook.com/420.Ticsys"><i class="fa fa-facebook"></i></a> </li>
+          <li><a target="_blank" href="https://plus.google.com/u/0/117879474879936937436/posts?hl=es-419"><i class="fa fa-google-plus"></i></a> </li>
+          <li><a target="_blank" href="https://www.youtube.com/channel/UCLruzL7n2W0ZhVL7BlGulGQ/videos"><i class="fa fa-youtube-play"></i></a> </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>

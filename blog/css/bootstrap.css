@@ -308,7 +308,7 @@ img {
 .carousel-inner > .item > img,
 .carousel-inner > .item > a > img {
   display: block;
-  max-width: 100%;
+  max-width: 50%;
   height: auto;
 }
 .img-rounded {
@@ -3933,8 +3933,8 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   }
 }
 .navbar-default {
-  background-color: #f8f8f8;
-  border-color: #e7e7e7;
+  background-color: rgba(0, 0, 0, 0.91);
+  border-color: #89EF4D;
 }
 .navbar-default .navbar-brand {
   color: #777;

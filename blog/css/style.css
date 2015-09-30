@@ -31,11 +31,11 @@ ul {
 	padding: 0;
 }
 .navbar-default {
-	padding: 30px 0 15px 0;
+	padding: 30px 0 5px 0;
 }
 .navbar-default .navbar-brand {
-	color: #555;
-	font-size: 34px;
+	color: #EDEAEA;
+	font-size: 25px;
 	font-weight: 700;
 	letter-spacing: -1px;
 	padding-top: 0;
@@ -54,18 +54,16 @@ ul {
 }
 .navbar-default .navbar-nav > li > a {
 	text-decoration: none;
-	font-size: 16px;
+	font-size: 18px;
 	margin: 0 5px;
-	color: #777;
-	font-weight: 500;
+	color: rgba(137, 239, 77, 0.68);
+	font-weight: bold;
 	padding: 7px 14px;
 	border-radius: 4px;
 }
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > .active > a:hover {
 	color: #black;
-	border-bottom: 1px solid #822a2a;
-	background-color: rgba(137, 239, 77, 0.44);
 }
 .navbar-default .navbar-nav > .active > a {
 	border-bottom: 1px solid #bbb;
@@ -180,7 +178,7 @@ ul {
 	margin-bottom: 30px;
 }
 #footerwrap {
-	background-color: #f7f7f7;
+	background-color: #111010;
 	padding: 40px 0 30px 0;
 	text-align: center;
 	border-top: 1px solid #e6e6e6;
