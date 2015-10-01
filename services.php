@@ -1,9 +1,10 @@
+<!-- http://ticsysecurity.com -->
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>ticsysecurity - Servicios</title>
+<title>TICSySecurity - Servicios</title>
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel='stylesheet' type='text/css'/>
 <!-- Font Awesome  -->
@@ -26,38 +27,38 @@
   <?php include_once("include/barra-nav"); ?>
 <div id="section_header">
   <div class="container">
-    <h2><span>Our</span> Services</h2>
+    <h2>Nuestros Servicios</h2>
   </div>
 </div>
 <div id="services">
   <div class="container">
     <div class="row">
       <div class="col-lg-4 service">
-        <h3>Aenean commodo</h3>
-        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu pretium.</p>
-        <img src="images/service1.jpg" class="img-responsive" alt=" "> </div>
+        <h3>Seguridad CCTV</h3>
+        <p>Montajes, instalaciones y configuraciones de Sistemas de Seguridad CCTV (DVR, NVR, Camaras Análogas e Ip, Domos PTZ), Monitoreo en tiempo real, Cloud Computing, P2P, visor de eventos y alertas.</p>
+        <img src="images/servicios/seguridad-cctv.png" class="img-responsive" alt=" "> </div>
       <div class="col-lg-4 service">
-        <h3>Ligula eget dolor</h3>
-        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Donec quam felis, ultricies nec.</p>
-        <img src="images/service2.jpg" class="img-responsive" alt=" "> </div>
+        <h3>Seguridad Perimetral</h3>
+        <p>Instalación, integración de elementos y sistemas Firewall, autenticacion, detección de intrusos, protección de intrusos, administración de enlaces de red, sistemas de monitoreo para protección de su red corporativa.</p>
+        <img src="images/servicios/seguridad-perimetral.png" class="img-responsive" alt=" "> </div>
       <div class="col-lg-4 service">
-        <h3>Aenean massa</h3>
-        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Donec quam felis, ultricies nec.</p>
-        <img src="images/service3.jpg" class="img-responsive" alt=" "> </div>
+        <h3>Website y Tiendas Virtuales</h3>
+        <p>Diseño de paginas web y tiendas virtuales, para su empresa (grande, mediana y pequeña). Sitios web responsive design ajustable a cualquier resolución de pantalla ya sea Desktop o mobile (android, iphone, windows phone y blackberry).</p>
+        <img src="images/servicios/web-design.png" class="img-responsive" alt=" "> </div>
     </div>
     <div class="row">
       <div class="col-lg-4 service">
-        <h3>Pellentesque eu pretium</h3>
-        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Donec quam felis, ultricies nec.</p>
-        <img src="images/service4.jpg" class="img-responsive" alt=" "> </div>
+        <h3>Sistemas de Informacion</h3>
+        <p>Desarrollo de sistemas de información para su empresa, estudio de negocios, UML, casos de uso. Orientados al tratamiento y administración de datos e información.</p>
+        <img src="images/servicios/sistemas-informacion.png" class="img-responsive" alt=" "> </div>
       <div class="col-lg-4 service">
-        <h3>Donec quam felis</h3>
-        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu pretium.</p>
-        <img src="images/service5.jpg" class="img-responsive" alt=" "> </div>
+        <h3>CEO - Privacidad y Monitoreo</h3>
+        <p>Asesoramos empresas, campañas políticas en posicionamiento web, redes sociales, blindado de celulares BlackPhone, seguridad en Internet, comunicaciones seguras y sistemas antimalware.</p>
+        <img src="images/servicios/privacidad.png" class="img-responsive" alt=" "> </div>
       <div class="col-lg-4 service">
-        <h3>Parturient montes</h3>
-        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Donec quam felis, ultricies nec.</p>
-        <img src="images/service6.jpg" class="img-responsive" alt=" "> </div>
+        <h3>Infraestructura y Soporte</h3>
+        <p>Soporte de redes WAN y LAN, configuración switch, routers, firewall, montajes y configuración de servicios en serves linux y windows, mantenimiento preventivo y correctivo para computadores.</p>
+        <img src="images/servicios/infra.png" class="img-responsive" alt=" "> </div>
     </div>
   </div>
 </div>
