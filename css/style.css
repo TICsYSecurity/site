@@ -626,3 +626,36 @@ address {
 #about_section_1 .container .row .col-lg-2. .fa{
 	color: #89EF4D;
 }
+
+#catalogos {
+	background-color: #F8F8F8;
+	color: black;text-align: center;
+}
+#catalogos .btn {
+	font-size: 14px;
+	margin: 50px 0;
+	padding: 10px 20px;
+	background-color: rgba(137, 239, 77, 0.38);
+	color: #fff;
+	border: 0;
+	text-transform: uppercase;
+}
+#catalogos .btn:hover{
+	color: black;
+	outline: 0px;
+}
+.catalogos .btn:focus {
+	color: black;
+	outline: 0px;
+}
+/*Proximos servicios*/
+#titulo-encabezado-servicio{
+	background-color: white;
+	padding: 10px;
+	text-align: center;
+}
+#titulo-encabezado-servicio h2{
+	text-align: center;
+	font-weight: bold;
+}
+
