@@ -658,4 +658,16 @@ address {
 	text-align: center;
 	font-weight: bold;
 }
+#main-services img{
+	width: 50%;
+	height: 50%;
+}
+.divisor{
+	background-color: rgba(137, 239, 77, 0.46);
+	box-shadow: 0px 5px 0px rgba(0, 0, 0, 0.46);
+}
+#main-services .divisor{
+	background-color: rgba(137, 239, 77, 0.46);
+	box-shadow: 0px 5px 0px rgba(0, 0, 0, 0.46);
+}
 
