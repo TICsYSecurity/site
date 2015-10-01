@@ -50,42 +50,55 @@ http://www.ticsysecurituy.com.co
               <div class="caption">
                 <h1>Soluciones Creativas<span>.</span></h1>
                 <p>Las mejores soluciones para su empresa aplicando las ultimas tendencias en tecnológica IT. </p>
-                <a href="services.html" class="btn">Mas Información</a> </div>
+              </div>
             </li>
             <li> <img src="images/bnr2.jpg" alt="">
               <div class="caption">
                 <h1>Soluciones Profesionales<span>.</span></h1>
                 <p>Profesionales IT expertos en  Desarrollo de Sistemas de Información, Seguridad Perimetral y CCTV, Profesionales de Internet.</p>
-                <a href="services.html" class="btn">Mas Información</a> </div>
+              </div>
             </li>
             <li> <img src="images/bnr3.jpg" alt="">
               <div class="caption">
                 <h1>Soluciones Personalizadas.<span>.</span></h1>
                 <p>Estudiamos su negocio para ofrecerle la mejor solución.</p>
-                <a href="services.html" class="btn">Mas Información</a> </div>
+              </div>
             </li>
           </ul>
         </div>
       </div>
     </div>
   </div>
-  <!-- Seccion Bienvenida -->
-  <div id="section_header">
-    <h2><span>Bienvenido nuestro sitio web!</span></h2>
+  <hr>
+  <!-- catalogos ccctv -->
+  <div id="titulo-encabezado-servicio">
+     <h2><b>Seguridad CCTV </b></h2>
   </div>
-  <div id="welcome">
-    <div class="container">
-      <div class="col-md-6"> <img class="img-responsive" src="images/about1.jpg" align=""> </div>
-      <div class="col-md-6">
-        <h3>Sobre Nosotros</h3>
-        <p>Somos una empresa de servicios de IT con más de 3 años de experiencia en el desarrollo e implantación de aplicaciones y soluciones tecnológicas. Aplicamos las mejores prácticas para hacer su negocio más competitivo, rentable, reduciendo costos y optimizando recursos.</p>
-        <a href="about.html" class="btn">Mas Información</a> </div>
-    </div>
+  <div id="catalogos">
+      <div class="container">
+        <div class="row">
+          <hr>
+          <h5><i class="fa fa-angle-down"></i> Descarga de Catalogos</h5>
+          <div class="alert alert-success" role="alert">Para descargar los catalogos de click sobre la imagenes<n/div>
+        </div>
+        <div class="row">
+          <div class="col-xs-6 ">
+            <a href="docs/catalogos/2015/hikvision-catalogo-2015.pdf" target="_blank" class="thumbnail">
+              <img src="images/catalogos/hikvision.png" alt="Descarga Catalogo Hikvision">
+            </a>
+          </div>
+
+          <div class="col-xs-6 ">
+            <a href="docs/catalogos/2015/digiplex-catalogo-2015.pdf" target="_blank" class="thumbnail">
+              <img src="images/catalogos/digiplex.png" alt="Descarga Catalogo Digiplex">
+            </a>
+          </div>
+        </div>
+      </div>
   </div>
-  </div>
-  <!-- Servicios Actuales Vigentes jejejej -->
-  <div id="section_header">
-    <h2><span>Lo que hacemos</span></h2>
+  <hr>
+  <div id="titulo-encabezado-servicio">
+    <h2><b>Lo que hacemos</b></h2>
   </div>
   <div id="main-services">
     <div class="container">
@@ -93,50 +106,51 @@ http://www.ticsysecurituy.com.co
         <div class="col-lg-4 centered"> <i class="fa fa-video-camera fa-3x"></i>
           <h3>Seguridad CCTV</h3>
           <p>Montajes, instalaciones y configuraciones de Sistemas de Seguridad CCTV (DVR, NVR, Camaras Análogas e Ip, Domos PTZ), Monitoreo en tiempo real, Cloud Computing, P2P, visor de eventos y alertas.</p>
-          <a href="services.html" class="btn">Mas Información.</a> </div>
+        </div>
         <div class="col-lg-4 centered"> <i class="fa fa-shield fa-3x"></i>
           <h3>Seguridad Perimetral</h3>
           <p>Instalación, integración de elementos y sistemas Firewall, autenticacion, detección de intrusos, protección de intrusos, administración de enlaces de red, sistemas de monitoreo para protección de su red corporativa.</p>
-          <a href="services.html" class="btn">Mas Información.</a> </div>
+        </div>
         <div class="col-lg-4 centered"> <i class="fa fa-desktop fa-3x"></i>
           <h3>Websites y Tiendas Virtuales</h3>
           <p>Diseño de paginas web y tiendas virtuales, para su empresa (grande, mediana y pequeña). Sitios web  responsive design ajustable a cualquier resolución de pantalla ya sea Desktop o mobile (android, iphone, windows phone y blackberry).</p>
-          <a href="services.html" class="btn">Mas Información.</a> </div>
+        </div>
         <div class="col-lg-4 centered"> <i class="fa fa-code fa-3x"></i>
           <h3>Sistemas de Información</h3>
           <p>Desarrollo de sistemas de información para su empresa, estudio de negocios, UML, casos de uso. Orientados al tratamiento y administración de datos e información.</p>
-          <a href="services.html" class="btn">Mas Información.</a> </div>
+        </div>
         <div class="col-lg-4 centered"> <i class="fa fa-binoculars fa-3x"></i>
           <h3>SEO - Privacidad y Monitoreo</h3>
           <p>Asesoramos empresas, campañas políticas en posicionamiento web, redes sociales, blindado de celulares BlackPhone, seguridad en Internet, comunicaciones seguras y sistemas antimalware.</p>
-          <a href="services.html" class="btn">Mas Información.</a> </div>
+        </div>
         <div class="col-lg-4 centered"> <i class="fa fa-sitemap fa-3x"></i>
           <h3>Infraestructura y Soporte</h3>
           <p>Soporte de redes WAN y LAN, configuración switch, routers, firewall, montajes y configuración de servicios en serves linux y windows,  mantenimiento preventivo y correctivo para computadores.</p>
-          <a href="services.html" class="btn">Mas Información.</a> </div>
+        </div>
       </div>
     </div>
   </div>
   <!-- Proximos servicios "pronto pronto"-->
-  <div id="proximos-servicios">
-    <h2><span>Próximos Servicios</span></h2>
-  </div> 
-  <div id="about_section_1">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-2"><i class="fa fa-shopping-cart fa-5x"></i></div>
-      <div class="col-lg-10">
-        <h3>Tienda Virtual</h3>
-        <p >Suministros de material para seguridad CCTV, cámaras análogas e ip, domos PTZ, dvr y nvr. Configuración remota por nuestros técnicos, solo necesitara instalar el software teamviewer o el plugin chrome Desktop para nosotros tomar su computadora por remoto y realizar las configuraciones de las cámaras ip para la visualización desde cualquier lugar del mundo.</p>
-      </div>
-      <div class="col-lg-2"><i class="fa fa-plug fa-5x"></i></div>
-      <div class="col-lg-10">
-        <h3>Roseta Pi</h3>
-        <p>Automatización y domotica para su hogar con raspberry pi, arduino, abra y cierre contactos eléctricos desde su mobil ( encender las luces de su casa, regar las plantas encender, una alarma, abrir la puerta de su casa) todo desde su ordenador o celular desde cualquier lugar del mundo con conectividad a Internet.</p>
+  <div id="titulo-encabezado-servicio">
+    <h2><b>Próximos Servicios</b></h2>
+  </div>
+  <div id="main-services">
+    <div class="container">
+      <div class="row">
+         <div class="col-lg-6 centered"> <i class="fa fa-shopping-cart fa-5x"></i>
+          <h3>Tienda Virtual</h3>
+          <p>Suministros de material para seguridad CCTV, cámaras análogas e ip, domos PTZ, dvr y nvr. Configuración remota por nuestros técnicos, solo necesitara instalar el software teamviewer o el plugin chrome Desktop para nosotros tomar su computadora por remoto y realizar las configuraciones de las cámaras ip para la visualización desde cualquier lugar del mundo.</p>
+        </div>
+         <div class="col-lg-6 centered"> <i class="fa fa-shopping-cart fa-5x"></i>
+          <h3>Roseta Pi</h3>
+          <p>Automatización y domotica para su hogar con raspberry pi, arduino, abra y cierre contactos eléctricos desde su mobil ( encender las luces de su casa, regar las plantas encender, una alarma, abrir la puerta de su casa) todo desde su ordenador o celular desde cualquier lugar del mundo con conectividad a Internet.</p>
+        </div>
       </div>
     </div>
   </div>
-</div>
+  <div id="titulo-encabezado-servicio">
+    <br><br>
+  </div>
 <!-- Footer -->
 <?php include_once("include/barra-foot"); ?>
 <!-- Bootstrap core JavaScript --> 
