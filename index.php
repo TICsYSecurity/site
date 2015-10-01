@@ -74,6 +74,10 @@ http://www.ticsysecurituy.com.co
   <div id="titulo-encabezado-servicio">
      <h2><b>Seguridad CCTV </b></h2>
   </div>
+  <div class="divisor">
+    <br>
+  </div>
+  <br>
   <div id="catalogos">
       <div class="container">
         <div class="row">
@@ -100,39 +104,16 @@ http://www.ticsysecurituy.com.co
   <div id="titulo-encabezado-servicio">
     <h2><b>Lo que hacemos</b></h2>
   </div>
-  <div id="main-services">
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-4 centered"> <i class="fa fa-video-camera fa-3x"></i>
-          <h3>Seguridad CCTV</h3>
-          <p>Montajes, instalaciones y configuraciones de Sistemas de Seguridad CCTV (DVR, NVR, Camaras Análogas e Ip, Domos PTZ), Monitoreo en tiempo real, Cloud Computing, P2P, visor de eventos y alertas.</p>
-        </div>
-        <div class="col-lg-4 centered"> <i class="fa fa-shield fa-3x"></i>
-          <h3>Seguridad Perimetral</h3>
-          <p>Instalación, integración de elementos y sistemas Firewall, autenticacion, detección de intrusos, protección de intrusos, administración de enlaces de red, sistemas de monitoreo para protección de su red corporativa.</p>
-        </div>
-        <div class="col-lg-4 centered"> <i class="fa fa-desktop fa-3x"></i>
-          <h3>Websites y Tiendas Virtuales</h3>
-          <p>Diseño de paginas web y tiendas virtuales, para su empresa (grande, mediana y pequeña). Sitios web  responsive design ajustable a cualquier resolución de pantalla ya sea Desktop o mobile (android, iphone, windows phone y blackberry).</p>
-        </div>
-        <div class="col-lg-4 centered"> <i class="fa fa-code fa-3x"></i>
-          <h3>Sistemas de Información</h3>
-          <p>Desarrollo de sistemas de información para su empresa, estudio de negocios, UML, casos de uso. Orientados al tratamiento y administración de datos e información.</p>
-        </div>
-        <div class="col-lg-4 centered"> <i class="fa fa-binoculars fa-3x"></i>
-          <h3>SEO - Privacidad y Monitoreo</h3>
-          <p>Asesoramos empresas, campañas políticas en posicionamiento web, redes sociales, blindado de celulares BlackPhone, seguridad en Internet, comunicaciones seguras y sistemas antimalware.</p>
-        </div>
-        <div class="col-lg-4 centered"> <i class="fa fa-sitemap fa-3x"></i>
-          <h3>Infraestructura y Soporte</h3>
-          <p>Soporte de redes WAN y LAN, configuración switch, routers, firewall, montajes y configuración de servicios en serves linux y windows,  mantenimiento preventivo y correctivo para computadores.</p>
-        </div>
-      </div>
-    </div>
+  <div class="divisor">
+    <br>
   </div>
+  <?php include_once("include/portafolio-servicios"); ?>
   <!-- Proximos servicios "pronto pronto"-->
   <div id="titulo-encabezado-servicio">
     <h2><b>Próximos Servicios</b></h2>
+  </div>
+  <div class="divisor">
+    <br>
   </div>
   <div id="main-services">
     <div class="container">
@@ -149,9 +130,12 @@ http://www.ticsysecurituy.com.co
     </div>
   </div>
   <div id="titulo-encabezado-servicio">
-    <br><br>
+    <br>
   </div>
 <!-- Footer -->
+<div class="divisor">
+    <br>
+</div>
 <?php include_once("include/barra-foot"); ?>
 <!-- Bootstrap core JavaScript --> 
   <script type="text/javascript" src="js/bootstrap.min.js"></script>
