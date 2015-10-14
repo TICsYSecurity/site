@@ -64,15 +64,15 @@
       <div class="col-lg-4 service">
         <h3>Mantenimientos preventivos y/o correctivos para café internets</h3>
         <p>Mantenimientos preventivos y/o correctivos para café internets con mínimo tres (3) equipos clientes y un (1) servidor. (Recomendamos 2 sesiones al año)</p>
-        <img src="images/servicios/sistemas-informacion.png" class="img-responsive" alt=" "> </div>
+        <img src="images/servicios/cafe-internet.jpg" class="img-responsive" alt=" "> </div>
       <div class="col-lg-4 service">
         <h3>Diseño de planos</h3>
         <p>Planos a la medida en software ArGIS, Autocat, Packettracer - Ediciones de imagenes en photoshop  y otras cosas así </p>
-        <img src="images/servicios/privacidad.png" class="img-responsive" alt=" "> </div>
+        <img src="images/servicios/planos.jpg" class="img-responsive" alt=" "> </div>
       <div class="col-lg-4 service">
         <h3>Desarrollo de software</h3>
         <p>Desarrollo de software a la medida para PyMes en los lenguajes: C++, Java, PHP, JSP, HTML5</p>
-        <img src="images/servicios/infra.png" class="img-responsive" alt=" "> </div>
+        <img src="images/servicios/desarrollo.jpg" class="img-responsive" alt=" "> </div>
     </div>
   </div>
 </div>
